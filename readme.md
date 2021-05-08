@@ -1,2 +1,2 @@
-for server: node index
+for server: node index <br>
 for client: cd client, npm start
